@@ -1,0 +1,17 @@
+body {
+    font-size: 12px;
+}
+div {
+    background-color:rgba(176,196,211,.3);
+}
+
+.node circle {
+       fill: #fff;
+          stroke: steelblue;
+             stroke-width: 3px;
+              }
+.link {
+fill: none;
+stroke: #ccc;
+        stroke-width: 2px;
+}
